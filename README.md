@@ -1,2 +1,2 @@
-# test-commits
-Repo percobaan untuk belajar commit
+# Belajar Commit
+Ini adalah percobaan commit pertama saya.
